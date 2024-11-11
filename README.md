@@ -1,6 +1,6 @@
 # Library System Management - C# Project
 
-![Login Error](./path-to-your-image/login_error.png)
+
 
 ## Overview
 
@@ -12,7 +12,11 @@ This project is a **Library System** developed in **C#**, featuring both a **CLI
 
 The CLI part provides a simple and efficient way to interact with the library system. Users can manage members, borrow/return books, and view the system's functionality.
 
-![CLI Menu](./path-to-your-image/cli.png)
+
+![cli](https://github.com/user-attachments/assets/9272875a-456f-43f3-96de-d0ba734a204e)
+![addmember](https://github.com/user-attachments/assets/eb280287-237c-49b5-80cd-3b7237489e5f)
+
+
 
 Features available in the CLI:
 - Add new members
@@ -26,6 +30,10 @@ The GUI part offers a more user-friendly, visual way to manage the library. It i
 
 ![Library System Management -
 ![login_error](https://github.com/user-attachments/assets/a2cbdc73-b50d-4fc1-804b-f859f766be23)
+![viewbook](https://github.com/user-attachments/assets/299a8298-d596-4cbd-826a-5899bf7124dd)
+![2](https://github.com/user-attachments/assets/6b720802-e4b0-4c1c-a564-a78673a5b3a0)
+
+
 
 #### Key Features:
 - **Dashboard**: An overview of the library's status
