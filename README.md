@@ -52,5 +52,5 @@ The GUI part offers a more user-friendly, visual way to manage the library. It i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-system.git
+   git clone https://github.com/HirushaGamage10/Library_System/edit/main/README.md
 
